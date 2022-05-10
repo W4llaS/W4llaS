@@ -2,8 +2,8 @@
 
 
 <div>
-<a href="https://www.instagram.com/w4lla_s/" target="_blank"><img src="https://images.vexels.com/media/users/3/137198/isolated/lists/07f0d7b69ef071571e4ada2f4d6a053a-icone-do-instagram-colorido.png" alt="Image" height="42" width="42"></a>
-<a href="https://www.linkedin.com/in/wallavalentim00/" target="_blank"><img src="https://aux2.iconspalace.com/uploads/3015048261952045100.png" alt="Image" height="30" width="30" target="_blank"></a>   
+<a href="https://www.instagram.com/w4lla_s/" target="_blank"><img src="git.png"></a>
+ 
 </div>
 
 
