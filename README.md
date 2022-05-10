@@ -15,7 +15,8 @@
 <br>
 <hr>
 
-An information system student, an open source contributor, python and php backend programmer
+
+🇦🇳 🇮🇳🇫🇴🇷🇲🇦🇹🇮🇴🇳 🇸🇾🇸🇹🇪🇲 🇸🇹🇺🇩🇪🇳🇹, 🇦🇳 🇴🇵🇪🇳 🇸🇴🇺🇷🇨🇪 🇨🇴🇳🇹🇷🇮🇧🇺🇹🇴🇷, 🇵🇾🇹🇭🇴🇳 🇦🇳🇩 🇵🇭🇵 🇧🇦🇨🇰🇪🇳🇩 🇵🇷🇴🇬🇷🇦🇲🇲🇪🇷
 
 
 
