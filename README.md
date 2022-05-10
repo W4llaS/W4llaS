@@ -15,7 +15,7 @@
 <br>
 <hr>
 
-  <p style="font-size:25px"> 
+  <p style="font-size:5px">
     An information system student, an open source contributor, python and php backend programmer
   </p>
 
