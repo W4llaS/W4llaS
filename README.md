@@ -14,7 +14,7 @@
     An information system student, an open source contributor, python and php backend programmer
 </p>
 <br>
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i08067sjbb1ze50nxixgb4dwjxk6h2xfctfc9i34&rid=giphy.gif&ct=g" padding="0" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" width="50%" align="right"/>
+<img src="https://media0.giphy.com/media/3o7TKx997XonqmAGU8/giphy.gif?cid=ecf05e47t53q9amg5vmybisz17dz36kfk1nooestn5llxv4d&rid=giphy.gif&ct=g" padding="0" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" width="50%" align="right"/>
 <p align="left" font-family: "Times New Roman", Times, serif;>
     
 </p>
