@@ -1,4 +1,6 @@
 ## Olá, me chamo Wallace Valentim ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-<div class="tenor-gif-embed" data-postid="25018018" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dev_animado-gif-25018018">Dev_animado GIF</a>from <a href="https://tenor.com/search/dev_animado-gifs">Dev_animado GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<figure class="gif">
+            <img src="<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>">
+      </figure>
