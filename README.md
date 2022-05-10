@@ -2,7 +2,7 @@
 
 
 <div>
-<a href="https://www.instagram.com/w4lla_s/" target="_blank"><img src="git.png"></a>
+<a href="https://www.instagram.com/w4lla_s/" target="_blank"><img src="file:///C:/Users/Desktop/Desktop/git.png"></a>
  
 </div>
 
