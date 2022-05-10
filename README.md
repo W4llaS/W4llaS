@@ -5,7 +5,7 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true">
 </div>
 
-![Snake animation](https://github.com/W4llaS/W4llaS/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/W4llaS/W4llaS/blob/output/github-contribution-grid-snake.svg)
 
 
 
