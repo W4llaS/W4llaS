@@ -19,7 +19,9 @@
     An information system student, an open source contributor, python and php backend programmer
 </p>
 
-<a href="https://giphy.com/search/games"target=_"blank"><img src="![image](https://user-images.githubusercontent.com/98819631/167693069-0a4aa5e7-70d5-4af0-b249-d68cc3760166.png)" target="_blank"></a>
+<a href="https://i.giphy.com/media/139eZBmH1HTyRa/giphy.webp"><img src="https://i.giphy.com/media/139eZBmH1HTyRa/giphy.webp" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" /></a>
+
+
 
 
 
