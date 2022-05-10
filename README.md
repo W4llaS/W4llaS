@@ -15,9 +15,9 @@
 <br>
 <hr>
 
-  <p style="font-weight:200">
+<p style="font-family:courier;">
     An information system student, an open source contributor, python and php backend programmer
-  </p>
+ </p>
 
 
 
