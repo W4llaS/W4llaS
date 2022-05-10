@@ -19,7 +19,7 @@
     An information system student, an open source contributor, python and php backend programmer
 </p>
 
-<a href="https://i.giphy.com/media/139eZBmH1HTyRa/giphy.webp"><img src="https://i.giphy.com/media/139eZBmH1HTyRa/giphy.webp" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" style="float:left;></a>
+<a href="https://i.giphy.com/media/139eZBmH1HTyRa/giphy.webp"><img src="https://i.giphy.com/media/139eZBmH1HTyRa/giphy.webp" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" / style="float:right;></a>
 
 
 
