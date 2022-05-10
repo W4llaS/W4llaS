@@ -2,7 +2,7 @@
 
 
 <div>
-<a href="https://www.instagram.com/w4lla_s/" target="_blank"><img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true"></a>
+<a><img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true"></a>
  
 </div>
 
