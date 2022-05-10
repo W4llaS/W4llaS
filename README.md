@@ -2,7 +2,7 @@
 
 
 <div>
-<a><img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true"></a>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true">
  
 </div>
 
