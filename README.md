@@ -19,7 +19,7 @@
     An information system student, an open source contributor, python and php backend programmer
 </p>
 
-<a href="https://giphy.com/search/games"target=_"blank"><img src="![image](https://user-images.githubusercontent.com/98819631/167692825-869d53d5-213a-47fd-9504-bae92347fd33.png)" target="_blank"></a>
+<a href="https://giphy.com/search/games"target=_"blank"><img src="![image](https://user-images.githubusercontent.com/98819631/167693069-0a4aa5e7-70d5-4af0-b249-d68cc3760166.png)" target="_blank"></a>
 
 
 
