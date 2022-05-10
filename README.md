@@ -17,16 +17,11 @@ Um estudante de sistema de informação, um colaborador de código aberto, progr
 <img src="https://media0.giphy.com/media/3o7TKx997XonqmAGU8/giphy.gif?cid=ecf05e47t53q9amg5vmybisz17dz36kfk1nooestn5llxv4d&rid=giphy.gif&ct=g" padding="0" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" width="50%" align="right"/>
 <p align="left" font-family: "Times New Roman", Times, serif;>
     
-</p>
-<p align="left" font-family: "Times New Roman", Times, serif;>
-    
-</p>
-<p align="left" font-family: "Times New Roman", Times, serif;>
-    
-</p>
-<p align="left" font-family: "Times New Roman", Times, serif;>
-    
-</p>
+<ul>
+  <li>Um estudante de sistema de informação, um colaborador de código aberto, programador de backend python e php</li>
+  <li>Um estudante de sistema de informação, um colaborador de código aberto, programador de backend python e php</li>
+  <li>Um estudante de sistema de informação, um colaborador de código aberto, programador de backend python e php</li>
+</ul>
 
 
 
