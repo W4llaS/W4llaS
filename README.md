@@ -10,8 +10,7 @@
 </div>
 <br>
 <hr>
-<p align="center" font-family: "Times New Roman", Times, serif;>
-    
+<p align="center">
 Um estudante de sistema de informação, um colaborador de código aberto, programador de backend python e php
 </p>
 <br>
