@@ -15,7 +15,9 @@
 <br>
 <hr>
 
-  <p style="font-size:25px"> 🇦🇳 🇮🇳🇫🇴🇷🇲🇦🇹🇮🇴🇳 🇸🇾🇸🇹🇪🇲 🇸🇹🇺🇩🇪🇳🇹, 🇦🇳 🇴🇵🇪🇳 🇸🇴🇺🇷🇨🇪 🇨🇴🇳🇹🇷🇮🇧🇺🇹🇴🇷, 🇵🇾🇹🇭🇴🇳 🇦🇳🇩 🇵🇭🇵 🇧🇦🇨🇰🇪🇳🇩 🇵🇷🇴🇬🇷🇦🇲🇲🇪🇷 </p>
+  <p style="font-size:25px"> 
+    An information system student, an open source contributor, python and php backend programmer
+  </p>
 
 
 
