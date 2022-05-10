@@ -5,7 +5,6 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true">
 </div>
 
-![snake gif](https://github.com/W4llaS/W4llaS/blob/output/github-contribution-grid-snake.svg)
 
 
 
