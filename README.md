@@ -14,6 +14,18 @@
     An information system student, an open source contributor, python and php backend programmer
 </p>
 <a href="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i08067sjbb1ze50nxixgb4dwjxk6h2xfctfc9i34&rid=giphy.gif&ct=g"><img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i08067sjbb1ze50nxixgb4dwjxk6h2xfctfc9i34&rid=giphy.gif&ct=g" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" style="200px" align="right"/></a>
+<p align="center" font-family: "Times New Roman", Times, serif;>
+    An information system student, an open source contributor, python and php backend programmer
+</p>
+<p align="center" font-family: "Times New Roman", Times, serif;>
+    An information system student, an open source contributor, python and php backend programmer
+</p>
+<p align="center" font-family: "Times New Roman", Times, serif;>
+    An information system student, an open source contributor, python and php backend programmer
+</p>
+<p align="center" font-family: "Times New Roman", Times, serif;>
+    An information system student, an open source contributor, python and php backend programmer
+</p>
 
 
 
