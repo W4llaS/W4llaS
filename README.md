@@ -15,7 +15,7 @@
 <br>
 <hr>
 
-<p>
+<p align="center">
     An information system student, an open source contributor, python and php backend programmer
 </p>
 
