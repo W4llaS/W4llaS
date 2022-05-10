@@ -1,4 +1,4 @@
-## Hi, I am Wallace Valentim ![image](https://user-images.githubusercontent.com/98819631/167656661-27395474-94d6-4f28-9e00-0d736b340531.png)
+## Hi, I am Wallace Valentim <a href="https://www.imagensanimadas.com/cat-emoticons-e-smiles-de-homens-palito-672.htm"><img src="https://www.imagensanimadas.com/data/media/672/emoticon-e-smiley-homem-palito-imagem-animada-0174.gif" border="0" alt="emoticon-e-smiley-homem-palito-imagem-animada-0174" /></a>
 
 
 
