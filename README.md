@@ -18,7 +18,7 @@ Um estudante de sistema de informação, um colaborador de código aberto, progr
 <p align="left" font-family: "Times New Roman", Times, serif;>
     
 <ul>
-  <li>Um estudante de sistema de informação, um colaborador de código aberto, programador de backend python e php</li>
+  <li>👨‍💻 Atualmente cursando Sistema de informação no Centro Universitário das Faculdades Metropolitanas Unidas (2021-2024)</li>
   <li>Um estudante de sistema de informação, um colaborador de código aberto, programador de backend python e php</li>
   <li>Um estudante de sistema de informação, um colaborador de código aberto, programador de backend python e php</li>
   <li>Um estudante de sistema de informação, um colaborador de código aberto, programador de backend python e php</li>
