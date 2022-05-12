@@ -30,9 +30,6 @@ Um estudante de sistema de informação, um colaborador de código aberto, progr
 </ul>
 <hr>
 <br>
-<div>
-## Hi, I am Wallace Valentim
-</div>
 
 
 
