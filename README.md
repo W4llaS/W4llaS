@@ -28,6 +28,8 @@ Um estudante de sistema de informação, um colaborador de código aberto, progr
   <li></li>
   <li></li>
 </ul>
+<hr>
+### Skills and Languages
 
 
 
