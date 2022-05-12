@@ -31,7 +31,7 @@ Um estudante de sistema de informação, um colaborador de código aberto, progr
 <hr>
 <br>
 <div align="center">
-## Skills and Language
+## Skills and Languages
 </div>
 
 
