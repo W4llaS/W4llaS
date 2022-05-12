@@ -30,6 +30,9 @@ Um estudante de sistema de informação, um colaborador de código aberto, progr
 </ul>
 <hr>
 <br>
+<div align="center">
+##Skills and Languages
+</div>
 
 
 
