@@ -1,35 +1,34 @@
-## Hi, I am Wallace Valentim <a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-de-bananas-2120.htm"><img src="https://www.imagensanimadas.com/data/media/2120/emoticon-e-smiley-banana-imagem-animada-0016.gif" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" /></a>
-<div>
-<a href="https://www.youtube.com/channel/UC9bLJ-K03OfGGaJXSZgQCig" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/w4lla_s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/wallavalentim00/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+## Olá sou o Wallace, web developer back-end junior  <a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-de-bananas-2120.htm"><img src="https://www.imagensanimadas.com/data/media/2120/emoticon-e-smiley-banana-imagem-animada-0016.gif" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" /></a>
+
+<div align="center">
+  <a href="https://github.com/W4llaS/W4llaS/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=W4llaS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
-<br>
-<div>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png?raw=true">
-</div>
-<br>
-<hr>
-<p align="center">
-Um estudante de sistema de informação, um colaborador de código aberto, programador de backend python e php
-</p>
-<br>
-<img src="https://media0.giphy.com/media/3o7TKx997XonqmAGU8/giphy.gif?cid=ecf05e47t53q9amg5vmybisz17dz36kfk1nooestn5llxv4d&rid=giphy.gif&ct=g" padding="0" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" width="50%" align="right"/>
-<p align="left" font-family: "Times New Roman", Times, serif;>
     
-<ul>
-  <li>👨‍💻 Atualmente cursando Sistema de informação no Centro Universitário das Faculdades Metropolitanas Unidas (2021-2024)</li>
-  <li>🗽 Gestor de suporte técnico na empresa VERI Soluções (2021 - Atualmente)</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
-<hr>
-<br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<!--   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">   -->
+    
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:100px;" src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp">
+</div>
+  
+  ##
+  
+<div> 
+  <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UC9bLJ-K03OfGGaJXSZgQCig)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="[https://instagram.com/rafaballerin](https://www.instagram.com/w4lla_s/)i" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="[https://www.twitch.tv/rafaballerinii](https://www.twitch.tv/w4lla_s)" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:walla.valentim00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wallavalentim00/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+
 
 
 
