@@ -1,4 +1,4 @@
-## Olá sou o Wallace, web developer back-end junior  <a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-de-bananas-2120.htm"><img src="https://www.imagensanimadas.com/data/media/2120/emoticon-e-smiley-banana-imagem-animada-0016.gif" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" /></a>
+## Olá sou o Wallace, web developer back-end training<a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-de-bananas-2120.htm"><img src="https://www.imagensanimadas.com/data/media/2120/emoticon-e-smiley-banana-imagem-animada-0016.gif" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" /></a>
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/W4llaS/W4llaS/">
