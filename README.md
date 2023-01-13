@@ -1,9 +1,4 @@
 ## Olá sou o Wallace, Desenvolvedor BackEnd<a href="https://www.imagensanimadas.com/cat-emoticons-e-smileys-de-bananas-2120.htm"><img src="https://www.imagensanimadas.com/data/media/2120/emoticon-e-smiley-banana-imagem-animada-0016.gif" border="0" alt="emoticon-e-smiley-banana-imagem-animada-0016" /></a>
-
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/W4llaS/W4llaS/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=W4llaS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</div>
     
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Walla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
